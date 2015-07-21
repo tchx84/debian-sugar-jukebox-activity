@@ -1,3 +1,9 @@
+sugar-jukebox-activity (32-1~0tch1) trusty; urgency=medium
+
+  * Remove dependency on specific sugar-artwork.
+
+ -- Martin Abente Lahaye <tch@sugarlabs.org>  Tue, 21 Jul 2015 11:45:40 -0400
+
 sugar-jukebox-activity (32-0tch1) UNRELEASED; urgency=low
 
   * Initial release for Debian.
